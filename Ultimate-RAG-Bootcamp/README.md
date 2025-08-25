@@ -1,4 +1,4 @@
-# Udemy Generative AI Courses
+# Generative AI Bootcamp
 
 ### Create Python Virtual Environment
 1. **Install `uv`:**
