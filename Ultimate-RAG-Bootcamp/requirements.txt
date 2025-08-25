@@ -8,4 +8,8 @@ langchain-community
 faiss-cpu
 pypdf
 pymupdf
+docx
+docx2txt
+python-docx
+unstructured[docx]
 
