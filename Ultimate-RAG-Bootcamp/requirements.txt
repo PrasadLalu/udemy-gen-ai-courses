@@ -6,4 +6,6 @@ langchain-groq
 langchain-openai
 langchain-community
 faiss-cpu
+pypdf
+pymupdf
 
