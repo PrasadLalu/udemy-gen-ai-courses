@@ -12,4 +12,7 @@ docx
 docx2txt
 python-docx
 unstructured[docx]
-
+pandas
+openpyxl
+networkx
+msoffcrypto
