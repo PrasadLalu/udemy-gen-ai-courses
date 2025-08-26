@@ -14,5 +14,4 @@ python-docx
 unstructured[docx]
 pandas
 openpyxl
-networkx
-msoffcrypto
+jq
